@@ -1,0 +1,54 @@
+.main {
+  padding-bottom: 30px;
+  text-align: center;
+  
+}
+
+.main input {
+  padding: 10px;
+  /* border-radius: 20px; */
+}
+
+.bottom input {
+  margin-left: 10px;
+}
+
+
+
+.ans {
+ 
+  color: black;
+  /* border-radius: 40px; */
+  padding: 10px 10px;
+  font-size: 20px;
+  border: 2px solid black;
+}
+
+.d-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.m-1 {
+  margin: 0 20px;
+}
+
+.calculated {
+  margin: 15px 0 20px;
+  padding: 10px 0;
+  background-color: rgb(102, 133, 134);
+}
+
+.calculated p {
+  font-size: 30px;
+  margin: 0 10px;
+  color: white;
+}
+
+.calculated input {
+  width: 50px;
+  height: 25px;
+  margin-right: 10px;
+  font-size: 20px;
+}
